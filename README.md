@@ -1,4 +1,8 @@
-### Hi there 👋
+![image](https://github.com/iamgeorgeokudo/iamgeorgeokudo/assets/57495814/2dc0aa87-600e-46ba-9257-6e23ae0555c8)
+file:///home/iamomondiokudo/Downloads/Systems%20and%20technology%20programming%20company%20logo.png
+
+### Hi there. Welcome to my github account 👋
+![Profile views](https://gpvc.arturio.dev/[iamgeorgeokudo])
 
 <!--
 **iamgeorgeokudo/iamgeorgeokudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Machine Learning with Tensor Flow.
+- 😄 Pronouns: He/Him
+- - ⚡ Fun fact: I watch aviation accidents investigation daily 😄
+ 
+
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
