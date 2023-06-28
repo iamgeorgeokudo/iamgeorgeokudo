@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/george_okudo), [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgeokudo), [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/okudo_george)
 - ⚡ Fun fact: I watch aviation accidents investigation daily 😄
+
+<a href="https://app.daily.dev/georgeokudo"><img src="https://api.daily.dev/devcards/cd5d651293224ec2953703df55b012b2.png?r=0uf" width="400" alt="GEORGE OKUDO's Dev Card"/></a>
  
 
 
