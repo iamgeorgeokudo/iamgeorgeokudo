@@ -24,6 +24,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I watch aviation accidents investigation daily 😄
 
 <a href="https://app.daily.dev/georgeokudo"><img src="https://api.daily.dev/devcards/cd5d651293224ec2953703df55b012b2.png?r=0uf" width="400" alt="GEORGE OKUDO's Dev Card"/></a>
+
+<a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+
+
+
+
+
  
 
 
