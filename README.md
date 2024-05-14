@@ -1,4 +1,5 @@
 ### Hi there. Welcome to my github account 👋
+<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm George Okudo</h1>
 ![](https://komarev.com/ghpvc/?username=iamgeorgeokudo)
 [![wakatime](https://wakatime.com/badge/user/914db0e9-c577-4429-87dd-e1380f3846fa.svg)](https://wakatime.com/@914db0e9-c577-4429-87dd-e1380f3846fa)
 <!-- <a href="#" width="20%"> -->
